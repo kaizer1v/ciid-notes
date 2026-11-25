@@ -1,3 +1,7 @@
+# Why take notes?
+
+Purpose: A set of notes, that I can refer and remind me what I did and in what situation would I do something... almost like a toolkit and a manual to a toolkit. Make it look like that, feel like that.. take the metaphor of that too.
+
 # General notes that are generic
 
 An exercise to do to figure out - what a designer should do
@@ -64,13 +68,50 @@ The emphasis of design should be more focused on 'figure it out yourself' aspect
 
 So, in essence, if you are a designer or figuring out whether to study design - your fresh input is what is required in the field right now. The perception is important.
 
------
 
 Deep inside, I think I just enjoy the craft of designing the right thing.
 
 Now, take a moment and try and understand - what have I really done to continue enjoying this craft? Did I lose it along the way? Did I submit myself to the system and became a vegetable? I am trying to resurrect that feeling and tap into that to really get back at the joy of crafting.
 
+I also spoke to Shobhan briefly about this - about how people would tend towards a smaller sized community when the scale is solved by AI. People would be more content crafting with hands, clay, write poems - a more internal compass that would drive them to do things. The downside of this, is economically that might not be very viable. It would be hard to sustain and make a living with such an economy when the mass produced are lower priced than "crafted" work - which is unique. Maybe people will start to value human skills more, which would be overtly visible.
 
 
 -----
 
+# On Choosing Education
+
+This is personally a very deep pursuit to figure out when particuarly choosing a school to go to. The thing that might be flawed when asking others for their preferences - is that their delta b/w what they are vs what they want to become is very different from your own. So, if you were to ask someone who doesn't know anything about design or has no experience in studying design - they would say, it was an exhilirating and enlightening experience because their "learning" muscle increased a lot during the programme. Versus, if someone who 
+
+> What are the goals of learning? What should be the goals or learning?
+- to be able to put into practice
+- to be able to demonstrate it into a practical scenario (a 'real' problem)
+- 
+
+- One of the biggest things that I have learnt about participating at CIID remotely is - how much structure and accountability that it provides that I was unable to replicate by my own. Firstly, there's nothing apart from CIID i.e. no job. So, my time is dedicated to playing and exploring a new area of design every week. Something that is very hard to replicate with a job, because often times, the motivation or energy levels drop down for me to start exploring or enjoying. 
+
+- Teaching is learning. I started to write and reflect more, as if talking to myself which is being vocal about my own thoughts. Hearing and reading them back enforces data into knowledge.
+
+- It also gave me interesting project work briefs, that I probably wouldn't have come up with myself
+
+- I got to do this in a group, a sense of healthy competition working with others in a group
+
+- A sense of time bound deadline, every Friday being a presentation day
+
+These raised questions like (what and how would I continue doing it post CIID?)
+> how is accountability and self discipline related? how to strengthen both for self
+
+
+
+---- 
+
+Fucking doing this remotely is really really really pushing me beyond this goddamn comfort zone. I really am unable to fcking catchup with what's being said and I need to do this by myself and read it by myself
+
+I really need additional time to catchup with the content
+
+
+24 Nov - 2026
+
+-----
+
+* Every week at CIID are a bunch of toolboxes
+* It accumulates every week - learn to use and play with these tools and learn how to combine them to upgrade these tools

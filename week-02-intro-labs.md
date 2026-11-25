@@ -100,3 +100,39 @@ Circular to hexagonal simplified the design and construction part - without comp
 - <BIG> - The compromises we made realising that modeling (fusion360) the original would be challenging based on existing capabilities and assembly structures (“design” is impacted by things that are beyond design - which means, even building and printing is part of ‘design’) as opposed to how organisations look at this separately
 
 - Take assembly into consideration when designing
+
+-----
+
+# Summary
+
+**In a nutshell:** Making is part of designing. What can be modelled, printed and assembled shaped the bird feeder as much as the original idea did.
+
+## Skills
+- **Sketching:** convey an idea in 2D and 3D; isometric grid paper uses 30° angles.
+- **Fusion 360:** always start from a 2D sketch, then go to 3D.
+
+| Tool | What it does |
+|---|---|
+| Extrude | Pulls a 2D shape into 3D |
+| Revolve | Spins a profile around an axis, for circular shapes |
+| Fillet / chamfer | Softens edges |
+| Shell | Hollows out a solid |
+| Project | Copies geometry from one surface to another |
+| Section analysis | Shows the cross-section, useful for checking joinery |
+
+## Project: bird feeder
+1. **Research:** 3–4 sparrow/bulbul-sized birds at a time, seeds and water, easy to refill.
+2. **Concept:** a timeboxed brainstorm led to a feeder inspired by the weaver bird's nest.
+3. **Prototype 1:** 6–7 stacked plates of varying diameter. Good for finding the form, but an organic sphere was hard to model.
+4. **Redesign after feedback:** a hexagonal shape with fewer plates, easier to model, print and assemble.
+5. **Final model:** three parts (top, middle and bottom face), repeated and scaled down to fit the print bed.
+
+## Key learnings
+- Iteration isn't linear.
+- Feedback right after the first prototype mattered most, because the design could still change to fit our skills and resources.
+- Simplifying is a trade-off. The hexagon lost some likeness to the nest but kept the core idea.
+- **The big one:** building, printing and assembly are part of design, even though organisations often treat them separately.
+
+## Loose ends
+- The print bed size is written as 180 *cm*; it is probably 180 *mm*.
+- Slides 7–9 and the sub-list under "sketch (2D)" are empty.

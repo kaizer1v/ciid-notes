@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"52a91fcb802537f9","type":"file","file":"week-04-intro-interaction-design.md","x":-400,"y":-300,"width":400,"height":400},
+		{"id":"bdef1370e2fdf21b","type":"file","file":"week-04-intro-interaction-design.md","x":200,"y":-120,"width":400,"height":400},
+		{"id":"8a7d44c7d3df400b","type":"file","file":"week-03-video-ethnography.md","x":-1118,"y":477,"width":400,"height":400},
+		{"id":"5814b4b6915f735a","type":"file","file":"assets/w3-d2-image.png","x":0,"y":877,"width":335,"height":237,"color":"5"}
+	],
+	"edges":[
+		{"id":"69e82bf073175b02","fromNode":"52a91fcb802537f9","fromSide":"right","toNode":"bdef1370e2fdf21b","toSide":"left"},
+		{"id":"ff1876feafdcdb40","fromNode":"52a91fcb802537f9","fromSide":"left","toNode":"8a7d44c7d3df400b","toSide":"right"},
+		{"id":"1e255c91c85273e5","fromNode":"5814b4b6915f735a","fromSide":"right","toNode":"bdef1370e2fdf21b","toSide":"bottom"}
+	]
+}

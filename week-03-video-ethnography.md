@@ -247,6 +247,7 @@ Chapter 06 - stock footage space + close
 - Vivian Maier - street photography of everyday life
 - Ernest Haast
 - Ellen Isaacs - Xerox Parc research: https://www.youtube.com/watch?v=nV0jY5VgymIx 
+- Mule design studio
 
 ## My Notes / Ideas / TODOs
 - what workarounds are people using and what do they reveal?
@@ -268,3 +269,47 @@ I also came across behaviour mapping documentary - social life in urban spaces h
 
 
 this came to mind: https://opencity.in/bengaluru-walkability-datajam-december-2023/ - a truly imapctful exercise of behaviour mapping for assessing walk-ability in areas of Bengaluru (bengawalk 👏)
+
+-----
+
+# Summary
+
+**In a nutshell:** Ethnography means paying attention to people in their context. Video and photos are both a way of seeing and a form of data.
+
+## Why use video
+- People don't observe themselves, they just do. Look for **routines, friction, workarounds, interactions and context**.
+- It helps at every stage: observing before design, documenting the process, giving evidence, testing prototypes, faking interactions (Wizard of Oz) and storytelling.
+- **Modes:** documentary (as it is), sensory (how the audience feels) and participatory.
+
+## Observing well
+- Don't think about solutions while observing.
+- Notice small details and the sensory experience of the place.
+- **Themes to explore:** who they are, what they do, their relationship to the place, what matters in their work, and a memory tied to the space.
+
+## Craft
+- **Camera:** light, shutter speed, aperture, ISO, white balance, light painting.
+- **Video:** angles, zoom, panning, focus, and wide/medium/close shots.
+- **Editing:** Adobe Premiere Pro and storyboarding.
+
+## Project: Riddhi, designer by day and potter by hobby
+- **Prepared:** prompts with an objective behind each one, plus a shot list.
+- **What came through:** working with the hands away from screens, patience through failure (a bubble plate took about 10 tries), no single right way to make a pot, and the studio as a community and "third space".
+- **Story:** arriving → intro → inspiration → process → memory → close.
+
+## What I'd do differently
+- Know the tools better: focus, ISO, tripod, orientation, angles and light.
+- Work in pairs, with one person moderating and one taking notes.
+- Be careful with impromptu questions; they were hard to categorise and may have hurt the narrative.
+- Plan sound and video together. Continuous audio with broken video makes editing painful, and background noise matters.
+- Stay with the person. The video became more about the space, while quirks and personality reveal useful nuance.
+
+## Ideas that stuck
+- **Geertz:** describe the *meaning* behind actions, not only the actions (Balinese cockfight; it reminded me of the Maasai Mara jumping).
+- **William H. Whyte:** public spaces succeed or fail on how people behave, not on abstract aesthetics.
+- **Closer to home:** Bengawalk and Bengaluru walkability mapping, and Shobhan's work on designing rituals.
+- **Question to keep:** what workarounds are people using, and what do they reveal?
+
+## Loose ends
+- The definitions of anthropology and the "participatory" mode are blank.
+- The "brisk firing" in the interview notes is probably *bisque* firing.
+- The Ellen Isaacs YouTube link looks mistyped (one character too long).

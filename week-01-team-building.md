@@ -20,8 +20,6 @@ Momo Miyazaki is our tutor for this week who has planned introduction and ice br
 - Paola: Gigi's assitance (staff)
 - Rocco: 
 
-
-
 campagnolo
 
 proseco (2) + campari (3) + soda water/sparkling (1) + lime/ice finisher
@@ -35,7 +33,11 @@ momomiyazaki.design@gmail.com
 - Holocaust memorial (from IDEO) -> NASA (mission critical systems) -> civictech work + textile archive art installation
 - 
 
-Icebreakers are really good.
+Icebreakers are really good. talk to one person, for 3 - 4 mins, and know
+1. where they are from
+2. what's their background and how they reached here
+3. what's their hobbies, stuff that they like
+4. find something common b/w you and them
 
 **Guglielmo**
 * Milan / Venice (31)
@@ -324,3 +326,106 @@ Recipe library
 - 
 
 "I am here to make mistakes" - "experiment" 
+
+-----
+
+# My Take / Practice
+
+There were some useful frameworks that we were introduced to. In hindsight, I was able to relate to some of the situations I was in during my work, to see how I could have done it better.
+
+### On Ice breakers
+If the team members doesn't know eachother, use some ice breaking games to know each other. Take 2 - 3 mins to do
+1. where they are from
+2. what's their background and how they reached here
+3. what's their hobbies, stuff that they like
+4. find something common b/w you and them
+
+At times, for larger teams, there's also **culture of scale** where you scale yourselves based on a set of 20 questions
+- ref: the culture map - erin meyer
+- how to measure culture of an org/team? the authoer says it's multi dimensional
+we learnt when people prefer to work vs who likes to work in silos vs teams
+
+When the team has just started to work together on a project, its probably a good idea to have a team contract. The idea is to put stuff on it that helps operate as a team better and know how they should operate. Stuff like
+- what does success look like for us?
+- 
+
+### On brainstorming
+when you want to generate ideas, there are some stuff that are helpful
+- Crazy8 - usually, timebox yourself for 8-10 mins and then come up with 8 - 10 ideas superfast
+- RoundRobin - anotherway is to make an idea, hand it over to next person and let them twist and add their flavour to it
+- Brainstorm Improv - 
+
+**Some rules**
+1. be as visual as possible (this is almost like prototyping)
+2. go for quantity (this is really important to go bredth instead of depth)
+3. stay focused on the topic / define the success factors maybe / contract is good to have (make it while we are brainstorming maybe)
+- Always think visually, draw it out, show it with existing objects or share references (but in context)
+- When there's more than one in the group, it's a good idea to ask them about their idea of success for the project (for the self as well as for the group)
+
+### On defining a direction
+this step is usually followed after a brainstorming session. Document or put it on paper in some form. Once it's out there, an easy way to decide is - use your team contract to define a scale on which you can vote your ideas on. and then each take votes on them. This method is `dot voting` and more quantity helps. After this is when the design process starts -> defining `how might we` statements etc.
+
+
+### On Giving constructive feedback
+when trying to give feedback, categorise the points within 3 buckets i.e. start, stop & continue - what should they start doing and stop doing and what should they continue doing. This gives them a more actionable way to take something and reflect on
+
+
+-----
+
+# Claude Summary
+
+I took this as Week 1, since that's the file you have open: [week-01-team-building.md](notes-ciid/week-01-team-building.md).
+
+# Week 1: Working as a team
+
+**In a nutshell:** Good teamwork can be designed. Get to know each other, agree on what success means, generate lots of ideas, choose with a method, build something scrappy, and reflect honestly.
+
+## 1. Building the team
+- **Icebreakers:** talk one-to-one for 3–4 minutes about where someone is from, their path here, their hobbies and something you share.
+- **Culture scale:** place yourselves on a set of 20 questions to see how people prefer to work, such as solo or in teams (ref: Erin Meyer's *The Culture Map*).
+- **Tuckman's stages:**
+  - *Forming:* get in sync on hopes, fears, roles and milestones.
+  - *Storming:* conflict and disagreement.
+  - *Norming:* trust, and awareness of each other's needs.
+  - *Performing:* back in rhythm.
+- **Team contract:** write down what success looks like and where friction might arise. You return to it when ideating, voting and giving feedback.
+
+## 2. Generating ideas
+- **Frame the question openly:** "a new coffee *experience*" opens up more than "a new coffee *cup*".
+- **Methods:** Crazy Eights (8 ideas in 8 minutes), Round Robin (each person builds on the last idea) and Brainstorm Improv (build ideas through discussion).
+- **Rules:** be visual, go for quantity and stay focused on the topic.
+- **When stuck, use Kantor's four-player model:** mover, follower, opposer and bystander. Everyone plays a bit of each, so notice which one is missing.
+
+## 3. Choosing a direction
+- **Dot voting** through lenses: most effective, most fun to prototype, most human-centred, most time/cost effective.
+- **2×2 matrices**, such as impact vs effort.
+- Use the success measures in your contract as the voting criteria.
+
+## 4. Prototyping
+- Be as scrappy as possible; whatever already exists can be part of the prototype.
+- Prototypes are also a way to express, visualise and communicate.
+- **Timebox or use pomodoros** when you're stuck, unfocused, short on time or need momentum.
+- Treat mistakes as experiments: "I am here to make mistakes."
+
+## 5. Giving feedback
+- **Context → Observation → Impact → Next** for a specific event.
+- **Start / Stop / Continue** for actionable reflection.
+
+## What you learnt by doing
+
+| | Reflection |
+|---|---|
+| **Going well** | Clear division of work, respect for time, well-defined questions |
+| **Your strengths** | Taking notes, filling gaps, asking good questions, synthesising ideas |
+| **Your growth area** | Illustration and drawing |
+| **Team: do more** | Go broader with ideas, use the frameworks consciously |
+| **Team: do less** | Complaining about time, losing time to remote/in-person logistics |
+
+**From the "beyond a human lifetime" project:** get to the point faster, and let go of personal ideas sooner. Holding on to them showed in the narration. Your feedback to the other team was also a useful lesson: ask what people *did*, not what they *would* do, because the latter builds in an assumption.
+
+## Loose ends in your notes
+- Storming has no guidance on what to do, Brainstorm Improv has only a line, and the team contract list in "My Take" stops after one point.
+- "My Take" puts "How might we" *after* voting, but Day 3 uses it to frame the brainstorm.
+- The last line on feedback cuts off at "reflect on".
+
+I can do the same for weeks 2–8, or combine them all into one summary.
