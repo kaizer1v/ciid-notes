@@ -1,0 +1,9 @@
+{
+  "showRibbon": false,
+  "theme": "obsidian",
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "IBM Plex Mono",
+  "monospaceFontFamily": "JetBrains Mono NL",
+  "translucency": false,
+  "cssTheme": "Obsidian Nord"
+}
